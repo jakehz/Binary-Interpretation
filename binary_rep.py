@@ -33,6 +33,8 @@ def round(x):
     return math.floor(x+0.5)
 
 def floating_point_convert(mantissa, power):
+    #NOT WORKING
+
     # takes the mantissa and power of a base 10
     # floating point number and returns the power
     # and mantissa of a base 2
